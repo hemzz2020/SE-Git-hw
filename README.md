@@ -16,7 +16,7 @@ Conflict Resolution: Successfully simulated, addressed, and resolved a merge con
 
 GitHub Issues and Resolutions
 
-Issue#     Title                Assignee         Status   Resolution Details
+[Issue#   |  Title          |      Assignee    |     Status |  Resolution Details ]
 #1      Implement apple.py      Hemzz2020      Closed    Created the feature-1 branch added the 
          program feature                                   apple.py file to print print I eat apple,
                                                              and merged it into main

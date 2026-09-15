@@ -1,2 +1,2 @@
-print('I eat apple')
-printa("Hello apple")
+print('I eat apple!')
+print("Hello apple")
